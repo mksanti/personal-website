@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Michael Santillán — Engineering Manager</title>
+<meta name="description" content="Michael Santillán is an Engineering Manager based in Brazil, writing about engineering, technology, privacy, the open web and how we work.">
+<link rel="icon" href="assets/images/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="assets/images/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="assets/images/favicon-180.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+<link rel="stylesheet" href="styles.css">
+<script>
+  (function () {
+    var t = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a href="#top" class="logo">MS <span class="accent">/</span></a>
+
+    <div class="header-actions">
+      <nav class="site-nav" id="siteNav">
+        <a href="#about">About</a>
+        <a href="#writing">Writing</a>
+        <a href="projects.html">Projects</a>
+      </nav>
+
+      <button class="theme-toggle" id="themeToggle" aria-label="Switch color theme">
+        <svg class="icon-moon" viewBox="0 0 24 24" fill="currentColor"><path d="M20.4 14.7A8.5 8.5 0 1 1 9.3 3.6a7 7 0 0 0 11.1 11.1z"/></svg>
+        <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.4M12 19.1v2.4M4.2 4.2l1.7 1.7M18.1 18.1l1.7 1.7M2.5 12h2.4M19.1 12h2.4M4.2 19.8l1.7-1.7M18.1 5.9l1.7-1.7"/></svg>
+      </button>
+
+      <button class="nav-toggle" id="navToggle" aria-label="Open navigation menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main id="top">
+
+  <section class="hero hero--full">
+    <div id="particles-hero" class="hero-bg" aria-hidden="true"></div>
+
+    <div class="wrap hero-inner">
+      <div class="hero-side hero-side-left">
+        <p>PEOPLE<br>SYSTEMS<br>DECISIONS<br>OUTCOMES</p>
+        <span class="dash"></span>
+      </div>
+
+      <div class="hero-main">
+        <h1>Engineering leadership<br>through change and complexity.</h1>
+        <p class="hero-sub">I work across people, technology and business to help engineering teams make better decisions and deliver.</p>
+      </div>
+
+      <div class="hero-side hero-side-right">
+        <p>TECHNOLOGY<br>PRIVACY<br>OPEN WEB<br>INDEPENDENCE</p>
+        <span class="dash"></span>
+      </div>
+    </div>
+  </section>
+
+  <section class="about" id="about">
+    <div class="wrap about-grid">
+      <div class="about-main">
+        <p class="kicker">01 / ABOUT</p>
+
+        <div class="about-body">
+          <img
+            class="avatar"
+            src="assets/images/michael-santillan.jpeg"
+            alt="Portrait of Michael Santillán"
+            width="220"
+            height="220"
+          >
+
+          <div class="about-text">
+            <h2>I&rsquo;m Michael Santillán.<span class="dash"></span></h2>
+            <p>I&rsquo;m an Engineering Manager based in Brazil. I lead software teams through growth, change and complex technical decisions.</p>
+            <p>My work sits between people, engineering systems and business context: creating clarity, developing people and improving how teams make decisions and deliver.</p>
+            <p>I also write about technology, privacy, the open web and the tools and ideas that shape how we work.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="about-links">
+        <p class="kicker">ELSEWHERE</p>
+        <ul>
+          <li>
+            <a href="https://www.linkedin.com/in/mksanti/" target="_blank" rel="noopener">
+              <span class="icon-badge">
+                <i class="fa-brands fa-linkedin-in" aria-hidden="true"></i>
+              </span>
+              <span>LinkedIn <span class="ext">↗</span></span>
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/mksanti" target="_blank" rel="noopener">
+              <span class="icon-badge">
+                <i class="fa-brands fa-github" aria-hidden="true"></i>
+              </span>
+              <span>GitHub <span class="ext">↗</span></span>
+            </a>
+          </li>
+          <li>
+            <a href="https://writing.exchange/@mikesanti" target="_blank" rel="me noopener">
+              <span class="icon-badge">
+                <i class="fa-brands fa-mastodon" aria-hidden="true"></i>
+              </span>
+              <span>Mastodon <span class="ext">↗</span></span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="split">
+    <div class="wrap split-grid">
+      <div class="split-col" id="writing">
+        <p class="kicker">02 / WRITING</p>
+        <h3>Thinking through technology.</h3>
+        <p>Essays and practical notes on engineering, privacy, the open web and how technology shapes the way we work.</p>
+        <a class="text-link" href="https://blog.mikesanti.dev" target="_blank" rel="noopener">Read the blog <span class="ext">↗</span></a>
+      </div>
+
+      <div class="split-col" id="projects">
+        <p class="kicker">03 / PROJECTS</p>
+        <h3>Selected projects.</h3>
+        <p>Public work, experiments and tools shaped by problems I wanted to understand or solve.</p>
+        <a class="text-link" href="projects.html">View projects <span class="ext">↗</span></a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <p>&copy; <span id="year">2026</span> Michael Santillán</p>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/tsparticles@2.12.0/tsparticles.bundle.min.js"></script>
+<script src="particles-config.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

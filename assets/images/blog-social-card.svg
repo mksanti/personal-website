@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title description">
+  <title id="title">Michael Santillán — Blog</title>
+  <desc id="description">Social sharing image for blog.mikesanti.dev</desc>
+
+  <rect width="1200" height="630" fill="#0a1628"/>
+
+  <g opacity="0.17" stroke="#7dd3fc" stroke-width="1">
+    <path d="M0 126H1200M0 252H1200M0 378H1200M0 504H1200"/>
+    <path d="M120 0V630M240 0V630M360 0V630M480 0V630M600 0V630M720 0V630M840 0V630M960 0V630M1080 0V630"/>
+  </g>
+
+  <g opacity="0.58" fill="none" stroke="#38bdf8" stroke-width="2">
+    <path d="M790 76 902 139 1016 87 1125 174 1033 262 1112 352 1010 438 1080 543"/>
+    <circle cx="790" cy="76" r="5" fill="#7dd3fc"/>
+    <circle cx="902" cy="139" r="5" fill="#38bdf8"/>
+    <circle cx="1016" cy="87" r="5" fill="#7dd3fc"/>
+    <circle cx="1125" cy="174" r="5" fill="#38bdf8"/>
+    <circle cx="1033" cy="262" r="5" fill="#7dd3fc"/>
+    <circle cx="1112" cy="352" r="5" fill="#38bdf8"/>
+    <circle cx="1010" cy="438" r="5" fill="#7dd3fc"/>
+    <circle cx="1080" cy="543" r="5" fill="#38bdf8"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="82" y="110" fill="#f5f8fc" font-size="54" font-weight="800" letter-spacing="-3">MS</text>
+    <path d="M176 65h13l-15 55h-13z" fill="#38bdf8"/>
+
+    <text x="82" y="282" fill="#f5f8fc" font-size="70" font-weight="700" letter-spacing="-2">Michael Santillán</text>
+    <text x="82" y="351" fill="#9db2c8" font-size="31" font-weight="400">Technology, privacy, the open web</text>
+    <text x="82" y="395" fill="#9db2c8" font-size="31" font-weight="400">and how we work.</text>
+
+    <rect x="82" y="466" width="42" height="4" rx="2" fill="#38bdf8"/>
+    <text x="82" y="535" fill="#7dd3fc" font-size="25" font-weight="600" letter-spacing="1">blog.mikesanti.dev</text>
+  </g>
+</svg>
