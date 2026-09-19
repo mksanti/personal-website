@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title description">
   <title id="title">Michael Santillán — Blog</title>
-  <desc id="description">Social sharing image for blog.mikesanti.dev</desc>
+  <desc id="description">Social sharing image for blog.mksanti.dev</desc>
 
   <rect width="1200" height="630" fill="#0a1628"/>
 
@@ -30,6 +30,6 @@
     <text x="82" y="395" fill="#9db2c8" font-size="31" font-weight="400">and how we work.</text>
 
     <rect x="82" y="466" width="42" height="4" rx="2" fill="#38bdf8"/>
-    <text x="82" y="535" fill="#7dd3fc" font-size="25" font-weight="600" letter-spacing="1">blog.mikesanti.dev</text>
+    <text x="82" y="535" fill="#7dd3fc" font-size="25" font-weight="600" letter-spacing="1">blog.mksanti.dev</text>
   </g>
 </svg>
