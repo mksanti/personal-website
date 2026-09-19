@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1584 396" role="img" aria-labelledby="title description">
+  <title id="title">Michael Santillán — LinkedIn background</title>
+  <desc id="description">Engineering leadership through change and complexity</desc>
+
+  <rect width="1584" height="396" fill="#0a1628"/>
+
+  <g opacity="0.14" stroke="#7dd3fc" stroke-width="1">
+    <path d="M0 99H1584M0 198H1584M0 297H1584"/>
+    <path d="M132 0V396M264 0V396M396 0V396M528 0V396M660 0V396M792 0V396M924 0V396M1056 0V396M1188 0V396M1320 0V396M1452 0V396"/>
+  </g>
+
+  <g opacity="0.66" fill="none" stroke="#38bdf8" stroke-width="2">
+    <path d="M70 70 183 126 302 73 420 154 346 236 454 319"/>
+    <circle cx="70" cy="70" r="5" fill="#7dd3fc"/>
+    <circle cx="183" cy="126" r="5" fill="#38bdf8"/>
+    <circle cx="302" cy="73" r="5" fill="#7dd3fc"/>
+    <circle cx="420" cy="154" r="5" fill="#38bdf8"/>
+    <circle cx="346" cy="236" r="5" fill="#7dd3fc"/>
+    <circle cx="454" cy="319" r="5" fill="#38bdf8"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="1420" y="64" text-anchor="end" fill="#f5f8fc" font-size="34" font-weight="800" letter-spacing="-2">MS</text>
+    <path d="M1438 35h10l-10 39h-10z" fill="#38bdf8"/>
+
+    <text x="610" y="165" fill="#f5f8fc" font-size="54" font-weight="700" letter-spacing="-1.5">Engineering leadership</text>
+    <text x="610" y="225" fill="#f5f8fc" font-size="54" font-weight="700" letter-spacing="-1.5">through change and complexity.</text>
+
+    <rect x="610" y="267" width="42" height="4" rx="2" fill="#38bdf8"/>
+    <text x="610" y="321" fill="#9db2c8" font-size="22" font-weight="500">People · Technology · Business</text>
+    <text x="1394" y="342" text-anchor="end" fill="#7dd3fc" font-size="19" font-weight="600" letter-spacing="0.5">mikesanti.dev</text>
+  </g>
+</svg>
